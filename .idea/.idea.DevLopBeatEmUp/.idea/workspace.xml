@@ -7,11 +7,112 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45a7accc-d95d-421b-8e09-49a0f89b0838" name="Changes" comment="" />
+    <list default="true" id="45a7accc-d95d-421b-8e09-49a0f89b0838" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DevLopBeatEmUp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DevLopBeatEmUp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/Arma.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/ArmaMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/Arma_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/Arma_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/TiroAmareloMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/TiroAzulMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/TiroLaranjaMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/TiroVerdeMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/TiroVermelhoMaterial.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/cmaismais.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/csharp.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/java.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Arma/nocode.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/CoverTransicaoIdleDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/CoverTransicaoIdleEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/IdleCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/IdleCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/IdleTransicaoCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/IdleTransicaoCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/RifleAtirar.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Take_001.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Dir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Dir_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Dir_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Esq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Esq_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Animacoes/Target_90Esq_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Chefe_AndarCorrerMira.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Chefe/Chefe_Offset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Clientes/Gritando.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Clientes/Rindo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Clientes/SegurarFim.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Clientes/SegurarFimSegurar.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Clientes/SegurarIdle.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Estagiario_AndarCorrerMira.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Estagiario_Offset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/IdleCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/IdleCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/IdleTransicaoCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/IdleTransicaoCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/PuloIdle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Personagens/Estagiario/PuloIdle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/RifleAtirar.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Dir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Dir_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Dir_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Esq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Esq_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Estagiario/Target_90Esq_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/CoverTransicaoIdleDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/CoverTransicaoIdleEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/IdleCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/IdleCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/IdleTransicaoCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/IdleTransicaoCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Take_001.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Dir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Dir_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Dir_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Esq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Esq_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Animacao/Target_90Esq_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Pleno_AndarCorrerMira.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Pleno/Pleno_Offset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/CoverTransicaoIdleDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/CoverTransicaoIdleEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/IdleCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/IdleCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/IdleTransicaoCoverDir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/IdleTransicaoCoverEsq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/RifleAtirar.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Dir.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Dir_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Dir_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Esq.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Esq_Baixo.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Animacao/Target_90Esq_Cima.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Senior_AndarCorrerMira.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Senior_Offset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Swat_Anim_Take_001.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Personagens/Senior/Swat_Anim_mixamo_com.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Jogador_Base.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Jogador_Base.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Metodos/ConfiguracoesPersonagem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Metodos/ConfiguracoesPersonagem.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Metodos/VerificaEscolhaPersonagem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/DevLopBeatEmUp/Personagens/Jogador/Metodos/VerificaEscolhaPersonagem.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/DevLopBeatEmUp/Controles/MenuPrincipalController.h" root0="FORCE_HIGHLIGHTING" />
@@ -39,25 +140,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\ericktheshadow\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\ericktheshadow\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\ericktheshadow\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\ericktheshadow\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\ericktheshadow\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\ericktheshadow\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DevLopBeatEmUp" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -170,6 +274,17 @@
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_10>
+      <configuration_11>
+        <option name="CONFIGURATION" value="" />
+        <option name="PLATFORM" value="" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/DevLopBeatEmUp.vcxproj" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(TargetPath)" />
+        <option name="PROGRAM_PARAMETERS" value="" />
+        <option name="WORKING_DIRECTORY" value="$(ProjectDir)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_11>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/DevLopBeatEmUp.vcxproj" />
       <method v="2">
         <option name="Build" />
@@ -219,6 +334,8 @@
       <workItem from="1704552448668" duration="3790000" />
       <workItem from="1704562626384" duration="2085000" />
       <workItem from="1704574901042" duration="6253000" />
+      <workItem from="1704581761263" duration="602000" />
+      <workItem from="1706016360603" duration="881000" />
     </task>
     <servers />
   </component>

@@ -38,7 +38,3 @@ void AJogador_Base::VerificaEscolhaPersonagem()
 		}
 	}
 }
-void AJogador_Base::CarregarAssetsPersonagem()
-{
-	
-}

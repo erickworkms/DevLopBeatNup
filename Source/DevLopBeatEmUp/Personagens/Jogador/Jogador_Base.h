@@ -11,7 +11,6 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "DevLopBeatEmUp/Personagens/Enums/Lista_Enums.h"
-#include "DevLopBeatEmUp/Personagens/NPC/Plataformas/LocalVisaoLuta.h"
 #include "Interfaces/DanoProjetilInterface.h"
 #include "Jogador_Base.generated.h"
 
@@ -40,8 +39,6 @@ public:
 	TArray<FString> MeshesPlayer;
 	UPROPERTY()
 	TArray<FString> AnimacaoPlayer;
-	UPROPERTY()
-	FString CaminhoArma;
 
 	UPROPERTY(BlueprintReadOnly,Category="Variaveis")
 	float Vida = 100;
@@ -112,8 +109,6 @@ public:
 	UPROPERTY()
 	FRotator RotacaoSocketArma;
 	
-	void CarregarAssetsPersonagem();
-
 	void VerificaEscolhaPersonagem();
 	
 	void VerificaMeshPersonagem(float Index);
@@ -150,8 +145,6 @@ protected:
 	void CriaCameraConfig();
 	void CriaPersonagemConfig();
 	void InicializaAttachPersonagem();
-	
-	void CriaProjetil();
 
 public:
 
